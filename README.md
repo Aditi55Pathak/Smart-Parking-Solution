@@ -98,7 +98,7 @@ Once the program runs, the following outputs will be visible:
 
 ---
 
-## Sample Screenshots
+## Screenshots
 
 ![image](https://github.com/user-attachments/assets/aa7c286b-1cb3-4e1f-abec-51316870a350)
 
